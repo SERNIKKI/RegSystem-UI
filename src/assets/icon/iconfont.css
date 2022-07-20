@@ -1,0 +1,119 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 3237602 */
+  src: url('iconfont.woff2?t=1646916709447') format('woff2'),
+       url('iconfont.woff?t=1646916709447') format('woff'),
+       url('iconfont.ttf?t=1646916709447') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-xiaolian:before {
+  content: "\e644";
+}
+
+.icon-video:before {
+  content: "\e609";
+}
+
+.icon-white:before {
+  content: "\e60a";
+}
+
+.icon-code:before {
+  content: "\e613";
+}
+
+.icon-jpg:before {
+  content: "\e614";
+}
+
+.icon-gif:before {
+  content: "\e61a";
+}
+
+.icon-zip:before {
+  content: "\e60d";
+}
+
+.icon-disable:before {
+  content: "\e60e";
+}
+
+.icon-html:before {
+  content: "\e60f";
+}
+
+.icon-annex:before {
+  content: "\e610";
+}
+
+.icon-jpg2:before {
+  content: "\e611";
+}
+
+.icon-css:before {
+  content: "\e612";
+}
+
+.icon-png:before {
+  content: "\e615";
+}
+
+.icon-psd:before {
+  content: "\e616";
+}
+
+.icon-eps:before {
+  content: "\e617";
+}
+
+.icon-csv:before {
+  content: "\e618";
+}
+
+.icon-waw:before {
+  content: "\e619";
+}
+
+.icon-mp4:before {
+  content: "\e61b";
+}
+
+.icon-avi:before {
+  content: "\e61c";
+}
+
+.icon-dll:before {
+  content: "\e61d";
+}
+
+.icon-xlsx:before {
+  content: "\e61e";
+}
+
+.icon-pdf:before {
+  content: "\e61f";
+}
+
+.icon-doc:before {
+  content: "\e620";
+}
+
+.icon-ppt:before {
+  content: "\e621";
+}
+
+.icon-ai:before {
+  content: "\e622";
+}
+
+.icon-txt:before {
+  content: "\e623";
+}
+

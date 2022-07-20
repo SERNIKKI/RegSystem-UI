@@ -1,0 +1,191 @@
+{
+  "id": "3237602",
+  "name": "file-icon",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "26954376",
+      "name": "笑脸",
+      "font_class": "xiaolian",
+      "unicode": "e644",
+      "unicode_decimal": 58948
+    },
+    {
+      "icon_id": "2295974",
+      "name": "video",
+      "font_class": "video",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "2295975",
+      "name": "white",
+      "font_class": "white",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "2295988",
+      "name": "html",
+      "font_class": "code",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "2295989",
+      "name": "jpg",
+      "font_class": "jpg",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "2298148",
+      "name": "gif",
+      "font_class": "gif",
+      "unicode": "e61a",
+      "unicode_decimal": 58906
+    },
+    {
+      "icon_id": "21020088",
+      "name": "zip",
+      "font_class": "zip",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "21020089",
+      "name": "禁用图片",
+      "font_class": "disable",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "21020090",
+      "name": "html",
+      "font_class": "html",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "21020091",
+      "name": "附件文档",
+      "font_class": "annex",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "21020092",
+      "name": "jpg",
+      "font_class": "jpg2",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "21020093",
+      "name": "css",
+      "font_class": "css",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    },
+    {
+      "icon_id": "21020094",
+      "name": "png",
+      "font_class": "png",
+      "unicode": "e615",
+      "unicode_decimal": 58901
+    },
+    {
+      "icon_id": "21020095",
+      "name": "psd",
+      "font_class": "psd",
+      "unicode": "e616",
+      "unicode_decimal": 58902
+    },
+    {
+      "icon_id": "21020096",
+      "name": "eps",
+      "font_class": "eps",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    },
+    {
+      "icon_id": "21020097",
+      "name": "csv",
+      "font_class": "csv",
+      "unicode": "e618",
+      "unicode_decimal": 58904
+    },
+    {
+      "icon_id": "21020098",
+      "name": "waw",
+      "font_class": "waw",
+      "unicode": "e619",
+      "unicode_decimal": 58905
+    },
+    {
+      "icon_id": "21020099",
+      "name": "mp4",
+      "font_class": "mp4",
+      "unicode": "e61b",
+      "unicode_decimal": 58907
+    },
+    {
+      "icon_id": "21020100",
+      "name": "avi",
+      "font_class": "avi",
+      "unicode": "e61c",
+      "unicode_decimal": 58908
+    },
+    {
+      "icon_id": "21020101",
+      "name": "dll",
+      "font_class": "dll",
+      "unicode": "e61d",
+      "unicode_decimal": 58909
+    },
+    {
+      "icon_id": "21020102",
+      "name": "xlsx",
+      "font_class": "xlsx",
+      "unicode": "e61e",
+      "unicode_decimal": 58910
+    },
+    {
+      "icon_id": "21020103",
+      "name": "pdf",
+      "font_class": "pdf",
+      "unicode": "e61f",
+      "unicode_decimal": 58911
+    },
+    {
+      "icon_id": "21020104",
+      "name": "doc",
+      "font_class": "doc",
+      "unicode": "e620",
+      "unicode_decimal": 58912
+    },
+    {
+      "icon_id": "21020105",
+      "name": "ppt",
+      "font_class": "ppt",
+      "unicode": "e621",
+      "unicode_decimal": 58913
+    },
+    {
+      "icon_id": "21020106",
+      "name": "ai",
+      "font_class": "ai",
+      "unicode": "e622",
+      "unicode_decimal": 58914
+    },
+    {
+      "icon_id": "21020107",
+      "name": "txt",
+      "font_class": "txt",
+      "unicode": "e623",
+      "unicode_decimal": 58915
+    }
+  ]
+}

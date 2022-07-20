@@ -1,0 +1,13 @@
+.dialog {
+  .header {
+    font-size: 20px;
+    text-align: center;
+  }
+  >>> .el-dialog__header {
+    background-color: #2faf98;
+    color: #fff;
+  }
+  >>> .el-icon-close:before {
+    color: #fff;
+  }
+}
